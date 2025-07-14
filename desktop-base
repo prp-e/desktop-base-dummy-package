@@ -1,0 +1,5 @@
+Package: desktop-base
+Version: 1.0
+Architecture: all
+Provides: desktop-base
+Description: Dummy desktop-base to avoid installing it
