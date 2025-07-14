@@ -14,3 +14,8 @@ apt install equivs
 ```
 
 ## How to use this repository
+
+1. Clone this repository
+2. Move the folder of the repository
+3. Run `equivs-build desktop-base`
+4. Running `dpkg -i` command to install the resulting package.
